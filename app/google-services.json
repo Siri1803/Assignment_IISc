@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1081326666693",
+    "project_id": "siri-project-f752f",
+    "storage_bucket": "siri-project-f752f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081326666693:android:0a4e2b86815048ffdfc1ac",
+        "android_client_info": {
+          "package_name": "com.example.splash_screen_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081326666693-61gcpgmrmdmu5a1dj2jpoc304j34ec0n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.splash_screen_assignment",
+            "certificate_hash": "0241b69516537056b3affbb8401dbf9095ad6e86"
+          }
+        },
+        {
+          "client_id": "1081326666693-30qj1d80jf75r6vm65baui9a2i0cm014.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW9NyfeW5Z6HLHXArsSqWrSFoyStdOCl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081326666693-30qj1d80jf75r6vm65baui9a2i0cm014.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
